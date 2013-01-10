@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jsf-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/5te_HUE1/lib/jsf-api.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/5te_HUE1/lib/jsf-impl.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/5te_HUE1/lib/jstl-1.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/5te_HUE1/lib/primefaces-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/IdeaProjects/5te_HUE1/lib/primefaces-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
